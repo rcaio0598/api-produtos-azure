@@ -21,7 +21,7 @@ jobs:
       - name: Set up Java version
         uses: actions/setup-java@v4
         with:
-          java-version: '8'
+          java-version: '11'
           distribution: 'microsoft'
 
       - name: Build with Maven
@@ -50,4 +50,5 @@ jobs:
           app-name: 'bootcamp-produtos-caioruan'
           slot-name: 'Production'
           package: '*.jar'
+
           publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_C739F0B999FB4D14855C9379C272FE36 }}
