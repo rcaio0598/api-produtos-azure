@@ -24,11 +24,8 @@ jobs:
           distribution: 'temurin'
           cache: 'maven'
 
-      - name: Dar permissão ao mvnw
-        run: chmod +x mvnw
-
       - name: Build with Maven
-        run: ./mvnw -B clean package -DskipTests
+        run: mvn -B clean package -DskipTests
 
       - name: Deploy to Azure Web App
         uses: azure/webapps-deploy@v3
