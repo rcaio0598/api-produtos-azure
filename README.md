@@ -1,5 +1,5 @@
 # 🛒 API de Gerenciamento de Produtos
-### Desafio Final - Bootcamp Spring Boot + Azure
+### Desafio Final - Bootcamp Java Deloitte
 
 [![Java](https://img.shields.io/badge/Java-17-orange?style=for-the-badge&logo=java)](https://www.oracle.com/java/)
 [![Spring Boot](https://img.shields.io/badge/Spring%20Boot-3.2.0-brightgreen?style=for-the-badge&logo=springboot)](https://spring.io/projects/spring-boot)
@@ -846,3 +846,4 @@ Encontrou algum problema? Abra uma [issue](https://github.com/rcaio0598/api-prod
 **"Código que não está em produção não resolve problema."**
 
 </div>
+
