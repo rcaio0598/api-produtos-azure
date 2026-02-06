@@ -342,8 +342,8 @@ curl -X DELETE https://bootcamp-produtos-caioruan-dyd4c2budxdxcrcx.brazilsouth-0
 
 #### 1. Clonar o Repositório
 ```bash
-git clone https://github.com/rcaio0598/api-produtos-springboot.git
-cd api-produtos-springboot
+git clone https://github.com/rcaio0598/api-produtos-azure.git
+cd api-produtos-azure
 ```
 
 #### 2. Compilar o Projeto
@@ -463,7 +463,7 @@ az webapp log tail \
 ## 📁 Estrutura do Projeto
 
 ```
-api-produtos-springboot/
+api-produtos-azure/
 │
 ├── src/
 │   ├── main/
@@ -845,7 +845,7 @@ Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para ma
 
 ## 📞 Suporte
 
-Encontrou algum problema? Abra uma [issue](https://github.com/rcaio0598/api-produtos-springboot/issues) no GitHub.
+Encontrou algum problema? Abra uma [issue](https://github.com/rcaio0598/api-produtos-azure/issue no GitHub.
 
 ---
 
@@ -856,3 +856,4 @@ Encontrou algum problema? Abra uma [issue](https://github.com/rcaio0598/api-prod
 **"Código que não está em produção não resolve problema."**
 
 </div>
+
