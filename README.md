@@ -845,7 +845,7 @@ Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para ma
 
 ## 📞 Suporte
 
-Encontrou algum problema? Abra uma [issue](https://github.com/rcaio0598/api-produtos-azure/issue no GitHub.
+Encontrou algum problema? Abra uma [issue](https://github.com/rcaio0598/api-produtos-azure/issues) no GitHub.
 
 ---
 
@@ -856,4 +856,5 @@ Encontrou algum problema? Abra uma [issue](https://github.com/rcaio0598/api-prod
 **"Código que não está em produção não resolve problema."**
 
 </div>
+
 
