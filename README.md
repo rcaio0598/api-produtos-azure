@@ -11,7 +11,7 @@ A API está no ar e pode ser usada diretamente:
 | Recurso | Link |
 | ------- | ---- |
 | **Endpoint de produtos** | https://bootcamp-produtos-caioruan-dyd4c2budxdxcrcx.brazilsouth-01.azurewebsites.net/produtos |
-| **Documentação (Swagger)** | https://bootcamp-produtos-caioruan-dyd4c2budxdxcrcx.brazilsouth-01.azurewebsites.net/swagger-ui.html |
+| **Documentação (Swagger)** | https://bootcamp-produtos-caioruan-dyd4c2budxdxcrcx.brazilsouth-01.azurewebsites.net/swagger-ui/index.html#/produto-controller/salvar |
 
 No Swagger é possível testar todos os endpoints (cadastrar, listar, buscar por ID, atualizar e remover produtos).
 
@@ -107,3 +107,4 @@ Nome obrigatório (não vazio); preço obrigatório e maior que zero. Erros de v
 | exception | Exceções e GlobalExceptionHandler |
 | validation | Nome obrigatório, preço maior que zero |
 | config | OpenAPI (Swagger) |
+
