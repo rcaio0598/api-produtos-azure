@@ -1,6 +1,7 @@
 # 🛒 API de Gerenciamento de Produtos
 ### Desafio Final - Bootcamp Java Deloitte
 
+[![Swagger](https://img.shields.io/badge/Swagger-API%20Docs-green?style=for-the-badge&logo=swagger)](https://bootcamp-produtos-caioruan-dyd4c2budxdxcrcx.brazilsouth-01.azurewebsites.net/swagger-ui/index.html)
 [![Java](https://img.shields.io/badge/Java-17-orange?style=for-the-badge&logo=java)](https://www.oracle.com/java/)
 [![Spring Boot](https://img.shields.io/badge/Spring%20Boot-3.2.0-brightgreen?style=for-the-badge&logo=springboot)](https://spring.io/projects/spring-boot)
 [![Azure](https://img.shields.io/badge/Azure-Deployed-0078D4?style=for-the-badge&logo=microsoftazure)](https://azure.microsoft.com/)
@@ -846,4 +847,5 @@ Encontrou algum problema? Abra uma [issue](https://github.com/rcaio0598/api-prod
 **"Código que não está em produção não resolve problema."**
 
 </div>
+
 
